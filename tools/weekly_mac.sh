@@ -9,7 +9,7 @@ cd "$REPO"
 echo "=== $(date '+%Y-%m-%d %H:%M') ==="
 
 git pull --ff-only -q
-/usr/bin/python3 -I tools/update.py
+/usr/bin/python3 -I -u tools/update.py
 
 if [[ -n "$(git status --porcelain sections.json)" ]]; then
     VERSION=$(/usr/bin/python3 -c 'import json;print(json.load(open("sections.json"))["version"])')
