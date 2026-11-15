@@ -39,20 +39,29 @@ def http_get(url, data=None, timeout=300):
         return r.read()
 
 
-def overpass(query, out):
+def overpass(query, out, min_elements):
+    """Заявка към Overpass. Отговорът се приема само ако има поне `min_elements` елемента
+    и няма съобщение за грешка – претоварен сървър или огледало с остарели данни връщат
+    „празен“, но синтактично валиден JSON, който не бива да стига до изчисленията."""
     body = urllib.parse.urlencode({"data": query}).encode()
     last = None
     for attempt in range(6):
         url = OVERPASS[attempt % len(OVERPASS)]
         try:
             raw = http_get(url, body, timeout=320)
-            json.loads(raw)  # проверка
+            d = json.loads(raw)
+            n = len(d.get("elements", []))
+            remark = d.get("remark", "")
+            if remark or n < min_elements:
+                raise ValueError(f"{url}: {n} елемента{', ' + remark[:120] if remark else ''}")
             open(out, "wb").write(raw)
+            print(f"   {out}: {n} елемента")
             return
         except Exception as e:  # сървърът често е зает – опитваме пак
             last = e
-            time.sleep(20)
-    raise RuntimeError(f"Overpass не отговори: {last}")
+            print(f"   опит {attempt + 1}: {e}")
+            time.sleep(30)
+    raise RuntimeError(f"Overpass не даде пълни данни: {last}")
 
 
 def road_ref(road):
@@ -116,11 +125,11 @@ def main():
     print("2/4 OpenStreetMap…")
     area = 'area["ISO3166-1"="BG"][admin_level=2]->.a;'
     overpass(f'[out:json][timeout:200];{area}(relation["type"="enforcement"](area.a););out body;'
-             f'(node["highway"="speed_camera"](area.a);node["highway"="toll_gantry"](area.a););out;', "osm1.json")
-    overpass(f'[out:json][timeout:200];{area}node[place~"^(city|town|village|hamlet)$"](area.a);out;', "osm3.json")
+             f'(node["highway"="speed_camera"](area.a);node["highway"="toll_gantry"](area.a););out;', "osm1.json", 150)
+    overpass(f'[out:json][timeout:200];{area}node[place~"^(city|town|village|hamlet)$"](area.a);out;', "osm3.json", 4000)
     ref_re = "|".join(re.escape(r) for r in sorted(set(refs.values())))
     overpass(f'[out:json][timeout:300];{area}way[highway~"^(motorway|trunk|primary|secondary)$"]'
-             f'[ref~"^({ref_re})(;|$)"](area.a);out tags geom;', "roads.json")
+             f'[ref~"^({ref_re})(;|$)"](area.a);out tags geom;', "roads.json", 3000)
 
     print("3/4 Координати и ограничения…")
     subprocess.run([sys.executable, "-I", "build6.py"], check=True)
@@ -135,6 +144,10 @@ def main():
     prev = json.load(open(PUBLISHED)) if os.path.exists(PUBLISHED) else {"sections": []}
     if prev["sections"] and len(data) < 0.8 * len(prev["sections"]):
         sys.exit(f"Броят падна от {len(prev['sections'])} на {len(data)} – не публикувам, нужна е ръчна проверка.")
+    prev_ok = sum(1 for s in prev["sections"] if s.get("verified"))
+    now_ok = sum(1 for s in data if s.get("verified"))
+    if prev_ok and now_ok < prev_ok - 3:
+        sys.exit(f"Верифицираните участъци паднаха от {prev_ok} на {now_ok} – не публикувам, нужна е ръчна проверка.")
     if comparable(data) == comparable(prev["sections"]):
         print("Няма промяна.")
         set_output(False)
