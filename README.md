@@ -17,6 +17,6 @@ BG TOLL не публикува координати и ограничения. 
 
 ## Автоматично обновяване
 
-GitHub Actions ([`update.yml`](.github/workflows/update.yml)) всеки понеделник сверява списъка на BG TOLL и OpenStreetMap. Нова версия се публикува, само ако има промяна и данните минат проверките. Може да се пусне и ръчно: **Actions → Обновяване на участъците → Run workflow**.
+Всеки понеделник в 09:30 Mac-ът на поддържащия пуска [`tools/weekly_mac.sh`](tools/weekly_mac.sh) (LaunchAgent): сверява списъка на BG TOLL и OpenStreetMap и публикува нова версия само ако има промяна и данните минат проверките. (GitHub Actions не може да го прави – сайтът на BG TOLL отказва достъп на сървърите на GitHub.)
 
-Локално: `python3 tools/update.py`. Ръчните корекции на точки са в речника `OVR` в `tools/build6.py`.
+Ръчно: `python3 tools/update.py`, след това commit и push на `sections.json`. Ръчните корекции на точки са в речника `OVR` в `tools/build6.py`.

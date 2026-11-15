@@ -1,9 +1,9 @@
 name: Обновяване на участъците
 
+# Автоматичното седмично пускане е от Mac (tools/weekly_mac.sh), защото BG TOLL
+# връща 403 на сървърите на GitHub. Тук остава само ръчно пускане.
 on:
-  schedule:
-    - cron: "17 4 * * 1"   # всеки понеделник, 04:17 UTC
-  workflow_dispatch:        # ръчно пускане от раздела Actions
+  workflow_dispatch:
 
 permissions:
   contents: write
