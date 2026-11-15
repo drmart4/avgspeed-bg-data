@@ -1,0 +1,2314 @@
+{
+ "version": "2026-11-16.1",
+ "generated": "2026-11-16 01:13",
+ "source": "BG TOLL (списък на сертифицираните отсечки) + © OpenStreetMap contributors (ODbL)",
+ "sections": [
+  {
+   "id": 1,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Крушовица",
+    "km": 19.46,
+    "lat": 42.573891,
+    "lon": 23.657374
+   },
+   "end": {
+    "name": "Вакарел",
+    "km": 24.288,
+    "lat": 42.550456,
+    "lon": 23.702742
+   },
+   "lengthKm": 4.828,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 4.43
+   },
+   "osmUnknownKm": 0.43,
+   "weightedLimit": 140
+  },
+  {
+   "id": 2,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Вакарел",
+    "km": 24.288,
+    "lat": 42.550456,
+    "lon": 23.702742
+   },
+   "end": {
+    "name": "Крушовица",
+    "km": 19.46,
+    "lat": 42.573891,
+    "lon": 23.657374
+   },
+   "lengthKm": 4.828,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 4.43
+   },
+   "osmUnknownKm": 0.43,
+   "weightedLimit": 140
+  },
+  {
+   "id": 3,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Вакарел",
+    "km": 24.288,
+    "lat": 42.550456,
+    "lon": 23.702742
+   },
+   "end": {
+    "name": "Ихтиман",
+    "km": 43.448,
+    "lat": 42.427028,
+    "lon": 23.854193
+   },
+   "lengthKm": 19.16,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 19.01
+   },
+   "osmUnknownKm": 0.14,
+   "weightedLimit": 140
+  },
+  {
+   "id": 4,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Ихтиман",
+    "km": 43.448,
+    "lat": 42.427028,
+    "lon": 23.854193
+   },
+   "end": {
+    "name": "Вакарел",
+    "km": 24.288,
+    "lat": 42.550456,
+    "lon": 23.702742
+   },
+   "lengthKm": 19.16,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 19.01
+   },
+   "osmUnknownKm": 0.14,
+   "weightedLimit": 140
+  },
+  {
+   "id": 5,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Щърково",
+    "km": 82.263,
+    "lat": 42.296728,
+    "lon": 24.228219
+   },
+   "end": {
+    "name": "Цалапица",
+    "km": 107.663,
+    "lat": 42.20498,
+    "lon": 24.508515
+   },
+   "lengthKm": 25.4,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 25.61
+   },
+   "osmUnknownKm": 0.08,
+   "weightedLimit": 140
+  },
+  {
+   "id": 6,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Цалапица",
+    "km": 107.663,
+    "lat": 42.20498,
+    "lon": 24.508515
+   },
+   "end": {
+    "name": "Щърково",
+    "km": 82.263,
+    "lat": 42.296728,
+    "lon": 24.228219
+   },
+   "lengthKm": 25.4,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 25.61
+   },
+   "osmUnknownKm": 0.08,
+   "weightedLimit": 140
+  },
+  {
+   "id": 7,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Цалапица",
+    "km": 107.663,
+    "lat": 42.20498,
+    "lon": 24.508515
+   },
+   "end": {
+    "name": "Радиново",
+    "km": 118.599,
+    "lat": 42.198217,
+    "lon": 24.637123
+   },
+   "lengthKm": 10.936,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 10.58
+   },
+   "osmUnknownKm": 0.06,
+   "weightedLimit": 140
+  },
+  {
+   "id": 8,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Радиново",
+    "km": 118.599,
+    "lat": 42.198217,
+    "lon": 24.637123
+   },
+   "end": {
+    "name": "Цалапица",
+    "km": 107.663,
+    "lat": 42.20498,
+    "lon": 24.508515
+   },
+   "lengthKm": 10.936,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 10.58
+   },
+   "osmUnknownKm": 0.06,
+   "weightedLimit": 140
+  },
+  {
+   "id": 9,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Радиново",
+    "km": 118.599,
+    "lat": 42.198217,
+    "lon": 24.637123
+   },
+   "end": {
+    "name": "Царацово",
+    "km": 122.673,
+    "lat": 42.206611,
+    "lon": 24.684439
+   },
+   "lengthKm": 4.074,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 3.87
+   },
+   "osmUnknownKm": 0.16,
+   "weightedLimit": 140
+  },
+  {
+   "id": 10,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Царацово",
+    "km": 122.673,
+    "lat": 42.206611,
+    "lon": 24.684439
+   },
+   "end": {
+    "name": "Радиново",
+    "km": 118.599,
+    "lat": 42.198217,
+    "lon": 24.637123
+   },
+   "lengthKm": 4.074,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 3.87
+   },
+   "osmUnknownKm": 0.16,
+   "weightedLimit": 140
+  },
+  {
+   "id": 11,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Царацово",
+    "km": 122.673,
+    "lat": 42.206611,
+    "lon": 24.684439
+   },
+   "end": {
+    "name": "Трилистник",
+    "km": 137.007,
+    "lat": 42.216832,
+    "lon": 24.859477
+   },
+   "lengthKm": 14.334,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 14.56
+   },
+   "osmUnknownKm": 0.05,
+   "weightedLimit": 140
+  },
+  {
+   "id": 12,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Трилистник",
+    "km": 137.007,
+    "lat": 42.216832,
+    "lon": 24.859477
+   },
+   "end": {
+    "name": "Царацово",
+    "km": 122.673,
+    "lat": 42.206611,
+    "lon": 24.684439
+   },
+   "lengthKm": 14.334,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 14.56
+   },
+   "osmUnknownKm": 0.05,
+   "weightedLimit": 140
+  },
+  {
+   "id": 13,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Трилистник",
+    "km": 137.007,
+    "lat": 42.216832,
+    "lon": 24.859477
+   },
+   "end": {
+    "name": "Опълченец",
+    "km": 159.028,
+    "lat": 42.199772,
+    "lon": 25.120858
+   },
+   "lengthKm": 22.021,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 21.86
+   },
+   "osmUnknownKm": 0.09,
+   "weightedLimit": 140
+  },
+  {
+   "id": 14,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Опълченец",
+    "km": 159.028,
+    "lat": 42.199772,
+    "lon": 25.120858
+   },
+   "end": {
+    "name": "Трилистник",
+    "km": 137.007,
+    "lat": 42.216832,
+    "lon": 24.859477
+   },
+   "lengthKm": 22.021,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 21.86
+   },
+   "osmUnknownKm": 0.09,
+   "weightedLimit": 140
+  },
+  {
+   "id": 15,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Опълченец",
+    "km": 159.028,
+    "lat": 42.199772,
+    "lon": 25.120858
+   },
+   "end": {
+    "name": "Чирпан",
+    "km": 172.447,
+    "lat": 42.200838,
+    "lon": 25.280935
+   },
+   "lengthKm": 13.419,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 13.34
+   },
+   "osmUnknownKm": 0.01,
+   "weightedLimit": 140
+  },
+  {
+   "id": 16,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Чирпан",
+    "km": 172.447,
+    "lat": 42.200838,
+    "lon": 25.280935
+   },
+   "end": {
+    "name": "Опълченец",
+    "km": 159.028,
+    "lat": 42.199772,
+    "lon": 25.120858
+   },
+   "lengthKm": 13.419,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 13.34
+   },
+   "osmUnknownKm": 0.01,
+   "weightedLimit": 140
+  },
+  {
+   "id": 17,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Чирпан",
+    "km": 172.447,
+    "lat": 42.200838,
+    "lon": 25.280935
+   },
+   "end": {
+    "name": "Памукчии",
+    "km": 205.326,
+    "lat": 42.331959,
+    "lon": 25.637652
+   },
+   "lengthKm": 32.879,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 33.39
+   },
+   "osmUnknownKm": 0.21,
+   "weightedLimit": 140
+  },
+  {
+   "id": 18,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Памукчии",
+    "km": 205.326,
+    "lat": 42.331959,
+    "lon": 25.637652
+   },
+   "end": {
+    "name": "Чирпан",
+    "km": 172.447,
+    "lat": 42.200838,
+    "lon": 25.280935
+   },
+   "lengthKm": 32.879,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 33.39
+   },
+   "osmUnknownKm": 0.21,
+   "weightedLimit": 140
+  },
+  {
+   "id": 19,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Загоре",
+    "km": 210.523,
+    "lat": 42.343739,
+    "lon": 25.689718
+   },
+   "end": {
+    "name": "Полско пъдарево",
+    "km": 245.193,
+    "lat": 42.465067,
+    "lon": 26.071102
+   },
+   "lengthKm": 34.67,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 34.41
+   },
+   "osmUnknownKm": 0.2,
+   "weightedLimit": 140
+  },
+  {
+   "id": 20,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Полско пъдарево",
+    "km": 245.193,
+    "lat": 42.465067,
+    "lon": 26.071102
+   },
+   "end": {
+    "name": "Загоре",
+    "km": 210.523,
+    "lat": 42.343739,
+    "lon": 25.689718
+   },
+   "lengthKm": 34.67,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 34.41
+   },
+   "osmUnknownKm": 0.2,
+   "weightedLimit": 140
+  },
+  {
+   "id": 21,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Полско пъдарево",
+    "km": 245.193,
+    "lat": 42.465067,
+    "lon": 26.071102
+   },
+   "end": {
+    "name": "Кабиле",
+    "km": 281.063,
+    "lat": 42.540538,
+    "lon": 26.484154
+   },
+   "lengthKm": 35.87,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 35.51
+   },
+   "osmUnknownKm": 0.26,
+   "weightedLimit": 140
+  },
+  {
+   "id": 22,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Кабиле",
+    "km": 281.063,
+    "lat": 42.540538,
+    "lon": 26.484154
+   },
+   "end": {
+    "name": "Полско пъдарево",
+    "km": 245.193,
+    "lat": 42.465067,
+    "lon": 26.071102
+   },
+   "lengthKm": 35.87,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 35.51
+   },
+   "osmUnknownKm": 0.26,
+   "weightedLimit": 140
+  },
+  {
+   "id": 23,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Кабиле",
+    "km": 281.063,
+    "lat": 42.540538,
+    "lon": 26.484154
+   },
+   "end": {
+    "name": "Воденичане",
+    "km": 298.803,
+    "lat": 42.55686,
+    "lon": 26.692938
+   },
+   "lengthKm": 17.74,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 17.58
+   },
+   "osmUnknownKm": 0.14,
+   "weightedLimit": 140
+  },
+  {
+   "id": 24,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Воденичане",
+    "km": 298.803,
+    "lat": 42.55686,
+    "lon": 26.692938
+   },
+   "end": {
+    "name": "Кабиле",
+    "km": 281.063,
+    "lat": 42.540538,
+    "lon": 26.484154
+   },
+   "lengthKm": 17.74,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 17.58
+   },
+   "osmUnknownKm": 0.14,
+   "weightedLimit": 140
+  },
+  {
+   "id": 25,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Кръстина",
+    "km": 344.388,
+    "lat": 42.590566,
+    "lon": 27.230922
+   },
+   "end": {
+    "name": "Ветрен",
+    "km": 357.949,
+    "lat": 42.593366,
+    "lon": 27.385863
+   },
+   "lengthKm": 13.561,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 13.09
+   },
+   "osmUnknownKm": 0.05,
+   "weightedLimit": 140
+  },
+  {
+   "id": 26,
+   "road": "АМ \"Тракия\"",
+   "start": {
+    "name": "Ветрен",
+    "km": 357.949,
+    "lat": 42.593366,
+    "lon": 27.385863
+   },
+   "end": {
+    "name": "Кръстина",
+    "km": 344.388,
+    "lat": 42.590566,
+    "lon": 27.230922
+   },
+   "lengthKm": 13.561,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 13.09
+   },
+   "osmUnknownKm": 0.05,
+   "weightedLimit": 140
+  },
+  {
+   "id": 27,
+   "road": "АМ \"Хемус\"",
+   "start": {
+    "name": "Горни Богров",
+    "km": 6.804,
+    "lat": 42.725164,
+    "lon": 23.527907
+   },
+   "end": {
+    "name": "Чурек",
+    "km": 27.024,
+    "lat": 42.778799,
+    "lon": 23.73616
+   },
+   "lengthKm": 20.22,
+   "speedLimit": 120,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 14.73,
+    "120": 3.3
+   },
+   "osmUnknownKm": 2.11,
+   "weightedLimit": 136
+  },
+  {
+   "id": 28,
+   "road": "АМ \"Хемус\"",
+   "start": {
+    "name": "Чурек",
+    "km": 27.024,
+    "lat": 42.778799,
+    "lon": 23.73616
+   },
+   "end": {
+    "name": "Горни Богров",
+    "km": 6.804,
+    "lat": 42.725164,
+    "lon": 23.527907
+   },
+   "lengthKm": 20.22,
+   "speedLimit": 120,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 14.73,
+    "120": 3.3
+   },
+   "osmUnknownKm": 2.11,
+   "weightedLimit": 136
+  },
+  {
+   "id": 29,
+   "road": "АМ \"Хемус\"",
+   "start": {
+    "name": "Девня",
+    "km": 399.703,
+    "lat": 43.227042,
+    "lon": 27.559635
+   },
+   "end": {
+    "name": "Игнатиево",
+    "km": 418.126,
+    "lat": 43.240718,
+    "lon": 27.774612
+   },
+   "lengthKm": 18.423,
+   "speedLimit": 130,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 17.78,
+    "120": 0.97
+   },
+   "osmUnknownKm": 0.47,
+   "weightedLimit": 139
+  },
+  {
+   "id": 30,
+   "road": "АМ \"Хемус\"",
+   "start": {
+    "name": "Игнатиево",
+    "km": 418.126,
+    "lat": 43.240718,
+    "lon": 27.774612
+   },
+   "end": {
+    "name": "Девня",
+    "km": 399.703,
+    "lat": 43.227042,
+    "lon": 27.559635
+   },
+   "lengthKm": 18.423,
+   "speedLimit": 130,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 17.78,
+    "120": 0.97
+   },
+   "osmUnknownKm": 0.47,
+   "weightedLimit": 139
+  },
+  {
+   "id": 31,
+   "road": "АМ \"Струма\"",
+   "start": {
+    "name": "София",
+    "km": 0.672,
+    "lat": 42.716091,
+    "lon": 23.233205
+   },
+   "end": {
+    "name": "Тунел \"Мало Бучино\"",
+    "km": 8.226,
+    "lat": 42.686146,
+    "lon": 23.155106
+   },
+   "lengthKm": 7.554,
+   "speedLimit": 130,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 6.77,
+    "80": 0.3
+   },
+   "osmUnknownKm": 0.56,
+   "weightedLimit": 136
+  },
+  {
+   "id": 32,
+   "road": "АМ \"Струма\"",
+   "start": {
+    "name": "Тунел \"Мало Бучино\"",
+    "km": 8.226,
+    "lat": 42.686146,
+    "lon": 23.155106
+   },
+   "end": {
+    "name": "София",
+    "km": 0.672,
+    "lat": 42.716091,
+    "lon": 23.233205
+   },
+   "lengthKm": 7.554,
+   "speedLimit": 130,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 6.77,
+    "80": 0.3
+   },
+   "osmUnknownKm": 0.56,
+   "weightedLimit": 136
+  },
+  {
+   "id": 33,
+   "road": "АМ \"Струма\"",
+   "start": {
+    "name": "яз. Дяково",
+    "km": 49.474,
+    "lat": 42.362228,
+    "lon": 23.104295
+   },
+   "end": {
+    "name": "Дяково",
+    "km": 52.049,
+    "lat": 42.340112,
+    "lon": 23.096491
+   },
+   "lengthKm": 2.575,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 2.58
+   },
+   "osmUnknownKm": 0.05,
+   "weightedLimit": 140
+  },
+  {
+   "id": 34,
+   "road": "АМ \"Струма\"",
+   "start": {
+    "name": "Дяково",
+    "km": 52.049,
+    "lat": 42.340112,
+    "lon": 23.096491
+   },
+   "end": {
+    "name": "яз. Дяково",
+    "km": 49.474,
+    "lat": 42.362228,
+    "lon": 23.104295
+   },
+   "lengthKm": 2.575,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 2.58
+   },
+   "osmUnknownKm": 0.05,
+   "weightedLimit": 140
+  },
+  {
+   "id": 35,
+   "road": "АМ \"Струма\"",
+   "start": {
+    "name": "Българчево",
+    "km": 90.219,
+    "lat": 42.011518,
+    "lon": 23.044732
+   },
+   "end": {
+    "name": "Покровник",
+    "km": 92.548,
+    "lat": 41.991916,
+    "lon": 23.053899
+   },
+   "lengthKm": 2.329,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 2.27
+   },
+   "osmUnknownKm": 0.06,
+   "weightedLimit": 140
+  },
+  {
+   "id": 36,
+   "road": "АМ \"Струма\"",
+   "start": {
+    "name": "Покровник",
+    "km": 92.548,
+    "lat": 41.991916,
+    "lon": 23.053899
+   },
+   "end": {
+    "name": "Българчево",
+    "km": 90.219,
+    "lat": 42.011518,
+    "lon": 23.044732
+   },
+   "lengthKm": 2.329,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 2.27
+   },
+   "osmUnknownKm": 0.06,
+   "weightedLimit": 140
+  },
+  {
+   "id": 37,
+   "road": "АМ \"Струма\"",
+   "start": {
+    "name": "Долна Градешница",
+    "km": 129.714,
+    "lat": 41.684657,
+    "lon": 23.181783
+   },
+   "end": {
+    "name": "Сандански",
+    "km": 143.945,
+    "lat": 41.573114,
+    "lon": 23.23962
+   },
+   "lengthKm": 14.231,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 13.98
+   },
+   "osmUnknownKm": 0.25,
+   "weightedLimit": 140
+  },
+  {
+   "id": 38,
+   "road": "АМ \"Струма\"",
+   "start": {
+    "name": "Сандански",
+    "km": 143.945,
+    "lat": 41.573114,
+    "lon": 23.23962
+   },
+   "end": {
+    "name": "Долна Градешница",
+    "km": 129.714,
+    "lat": 41.684657,
+    "lon": 23.181783
+   },
+   "lengthKm": 14.231,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 13.98
+   },
+   "osmUnknownKm": 0.25,
+   "weightedLimit": 140
+  },
+  {
+   "id": 39,
+   "road": "АМ \"Струма\"",
+   "start": {
+    "name": "Сандански",
+    "km": 143.945,
+    "lat": 41.573114,
+    "lon": 23.23962
+   },
+   "end": {
+    "name": "Дамяница",
+    "km": 151.251,
+    "lat": 41.514522,
+    "lon": 23.271444
+   },
+   "lengthKm": 7.306,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 6.97
+   },
+   "osmUnknownKm": 0.32,
+   "weightedLimit": 140
+  },
+  {
+   "id": 40,
+   "road": "АМ \"Струма\"",
+   "start": {
+    "name": "Дамяница",
+    "km": 151.251,
+    "lat": 41.514522,
+    "lon": 23.271444
+   },
+   "end": {
+    "name": "Сандански",
+    "km": 143.945,
+    "lat": 41.573114,
+    "lon": 23.23962
+   },
+   "lengthKm": 7.306,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 6.97
+   },
+   "osmUnknownKm": 0.32,
+   "weightedLimit": 140
+  },
+  {
+   "id": 41,
+   "road": "АМ \"Струма\"",
+   "start": {
+    "name": "Дамяница",
+    "km": 151.251,
+    "lat": 41.514522,
+    "lon": 23.271444
+   },
+   "end": {
+    "name": "Марикостиново",
+    "km": 163.488,
+    "lat": 41.419068,
+    "lon": 23.333891
+   },
+   "lengthKm": 12.237,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 11.81
+   },
+   "osmUnknownKm": 0.4,
+   "weightedLimit": 140
+  },
+  {
+   "id": 42,
+   "road": "АМ \"Струма\"",
+   "start": {
+    "name": "Марикостиново",
+    "km": 163.488,
+    "lat": 41.419068,
+    "lon": 23.333891
+   },
+   "end": {
+    "name": "Дамяница",
+    "km": 151.251,
+    "lat": 41.514522,
+    "lon": 23.271444
+   },
+   "lengthKm": 12.237,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 11.81
+   },
+   "osmUnknownKm": 0.4,
+   "weightedLimit": 140
+  },
+  {
+   "id": 43,
+   "road": "АМ \"Марица\"",
+   "start": {
+    "name": "Харманли",
+    "km": 62.476,
+    "lat": 41.957864,
+    "lon": 25.882576
+   },
+   "end": {
+    "name": "Любимец",
+    "km": 83.554,
+    "lat": 41.862701,
+    "lon": 26.087421
+   },
+   "lengthKm": 21.078,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 19.6
+   },
+   "osmUnknownKm": 1.32,
+   "weightedLimit": 140
+  },
+  {
+   "id": 44,
+   "road": "АМ \"Марица\"",
+   "start": {
+    "name": "Любимец",
+    "km": 83.554,
+    "lat": 41.862701,
+    "lon": 26.087421
+   },
+   "end": {
+    "name": "Харманли",
+    "km": 62.476,
+    "lat": 41.957864,
+    "lon": 25.882576
+   },
+   "lengthKm": 21.078,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 19.6
+   },
+   "osmUnknownKm": 1.32,
+   "weightedLimit": 140
+  },
+  {
+   "id": 45,
+   "road": "АМ \"Марица\"",
+   "start": {
+    "name": "Любимец",
+    "km": 83.554,
+    "lat": 41.862701,
+    "lon": 26.087421
+   },
+   "end": {
+    "name": "Момково",
+    "km": 89.476,
+    "lat": 41.832172,
+    "lon": 26.140699
+   },
+   "lengthKm": 5.922,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 5.57
+   },
+   "osmUnknownKm": 0.34,
+   "weightedLimit": 140
+  },
+  {
+   "id": 46,
+   "road": "АМ \"Марица\"",
+   "start": {
+    "name": "Момково",
+    "km": 89.476,
+    "lat": 41.832172,
+    "lon": 26.140699
+   },
+   "end": {
+    "name": "Любимец",
+    "km": 83.554,
+    "lat": 41.862701,
+    "lon": 26.087421
+   },
+   "lengthKm": 5.922,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 5.57
+   },
+   "osmUnknownKm": 0.34,
+   "weightedLimit": 140
+  },
+  {
+   "id": 47,
+   "road": "АМ \"Марица\"",
+   "start": {
+    "name": "Свиленград",
+    "km": 98.481,
+    "lat": 41.778808,
+    "lon": 26.217492
+   },
+   "end": {
+    "name": "Момково",
+    "km": 89.476,
+    "lat": 41.832172,
+    "lon": 26.140699
+   },
+   "lengthKm": 9.005,
+   "speedLimit": 140,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 8.82
+   },
+   "osmUnknownKm": 0.15,
+   "weightedLimit": 140
+  },
+  {
+   "id": 48,
+   "road": "АМ \"Европа\" (Северна скоростна тангента)",
+   "start": {
+    "name": "м/у 18 и п.в.Илиянци",
+    "km": 50.427,
+    "lat": 42.765493,
+    "lon": 23.297027
+   },
+   "end": {
+    "name": "Чепинци",
+    "km": 60.705,
+    "lat": 42.719752,
+    "lon": 23.400515
+   },
+   "lengthKm": 10.278,
+   "speedLimit": 120,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "120": 10.15
+   },
+   "osmUnknownKm": 0.1,
+   "weightedLimit": 120
+  },
+  {
+   "id": 49,
+   "road": "АМ \"Европа\" (Северна скоростна тангента)",
+   "start": {
+    "name": "Чепинци",
+    "km": 60.705,
+    "lat": 42.719752,
+    "lon": 23.400515
+   },
+   "end": {
+    "name": "м/у 18 и п.в.Илиянци",
+    "km": 50.427,
+    "lat": 42.765493,
+    "lon": 23.297027
+   },
+   "lengthKm": 10.278,
+   "speedLimit": 120,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "120": 10.15
+   },
+   "osmUnknownKm": 0.1,
+   "weightedLimit": 120
+  },
+  {
+   "id": 50,
+   "road": "I-1",
+   "start": {
+    "name": "Жеглица",
+    "km": 23.485,
+    "lat": 43.897897,
+    "lon": 22.811947
+   },
+   "end": {
+    "name": "Срацимирово",
+    "km": 34.751,
+    "lat": 43.817327,
+    "lon": 22.753623
+   },
+   "lengthKm": 11.266,
+   "speedLimit": 50,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 4.85,
+    "60": 0.88,
+    "50": 1.25
+   },
+   "osmUnknownKm": 4.19,
+   "weightedLimit": 75
+  },
+  {
+   "id": 51,
+   "road": "I-1",
+   "start": {
+    "name": "Срацимирово",
+    "km": 34.751,
+    "lat": 43.817327,
+    "lon": 22.753623
+   },
+   "end": {
+    "name": "Жеглица",
+    "km": 23.485,
+    "lat": 43.897897,
+    "lon": 22.811947
+   },
+   "lengthKm": 11.266,
+   "speedLimit": 50,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 4.85,
+    "60": 0.88,
+    "50": 1.25
+   },
+   "osmUnknownKm": 4.19,
+   "weightedLimit": 75
+  },
+  {
+   "id": 52,
+   "road": "I-2",
+   "start": {
+    "name": "Струйно",
+    "km": 104.733,
+    "lat": 43.362096,
+    "lon": 26.851127
+   },
+   "end": {
+    "name": "Шумен",
+    "km": 112.381,
+    "lat": 43.317371,
+    "lon": 26.92011
+   },
+   "lengthKm": 7.648,
+   "speedLimit": 70,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 5.17,
+    "60": 1.22,
+    "50": 0.97
+   },
+   "osmUnknownKm": 0.26,
+   "weightedLimit": 76
+  },
+  {
+   "id": 53,
+   "road": "I-2",
+   "start": {
+    "name": "Шумен",
+    "km": 112.381,
+    "lat": 43.317371,
+    "lon": 26.92011
+   },
+   "end": {
+    "name": "Струйно",
+    "km": 104.733,
+    "lat": 43.362096,
+    "lon": 26.851127
+   },
+   "lengthKm": 7.648,
+   "speedLimit": 70,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 5.17,
+    "60": 1.22,
+    "50": 0.97
+   },
+   "osmUnknownKm": 0.26,
+   "weightedLimit": 76
+  },
+  {
+   "id": 54,
+   "road": "I-3",
+   "start": {
+    "name": "Долни Дъбник",
+    "km": 100.471,
+    "lat": 43.414675,
+    "lon": 24.465858
+   },
+   "end": {
+    "name": "Телиш",
+    "km": 122.349,
+    "lat": 43.322369,
+    "lon": 24.268075
+   },
+   "lengthKm": 21.878,
+   "speedLimit": 90,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 19.54
+   },
+   "osmUnknownKm": 2.26,
+   "weightedLimit": 90
+  },
+  {
+   "id": 55,
+   "road": "I-3",
+   "start": {
+    "name": "Телиш",
+    "km": 122.349,
+    "lat": 43.322369,
+    "lon": 24.268075
+   },
+   "end": {
+    "name": "Долни Дъбник",
+    "km": 100.471,
+    "lat": 43.414675,
+    "lon": 24.465858
+   },
+   "lengthKm": 21.878,
+   "speedLimit": 90,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 19.54
+   },
+   "osmUnknownKm": 2.26,
+   "weightedLimit": 90
+  },
+  {
+   "id": 56,
+   "road": "I-3",
+   "start": {
+    "name": "Пейчиново",
+    "km": 3.997,
+    "lat": 43.442072,
+    "lon": 25.610222
+   },
+   "end": {
+    "name": "Горна Студена",
+    "km": 25.271,
+    "lat": 43.416325,
+    "lon": 25.358027
+   },
+   "lengthKm": 21.274,
+   "speedLimit": 80,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 20.55,
+    "80": 0.1,
+    "50": 0.33
+   },
+   "osmUnknownKm": 0.24,
+   "weightedLimit": 89
+  },
+  {
+   "id": 57,
+   "road": "I-3",
+   "start": {
+    "name": "Горна Студена",
+    "km": 25.271,
+    "lat": 43.416325,
+    "lon": 25.358027
+   },
+   "end": {
+    "name": "Пейчиново",
+    "km": 3.997,
+    "lat": 43.442072,
+    "lon": 25.610222
+   },
+   "lengthKm": 21.274,
+   "speedLimit": 80,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 20.55,
+    "80": 0.1,
+    "50": 0.33
+   },
+   "osmUnknownKm": 0.24,
+   "weightedLimit": 89
+  },
+  {
+   "id": 58,
+   "road": "I-4",
+   "start": {
+    "name": "Сопот",
+    "km": 22.734,
+    "lat": 43.033142,
+    "lon": 24.379286
+   },
+   "end": {
+    "name": "Голец",
+    "km": 40.67,
+    "lat": 43.042188,
+    "lon": 24.59428
+   },
+   "lengthKm": 17.936,
+   "speedLimit": 80,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 14.52,
+    "70": 0.28,
+    "60": 0.2,
+    "50": 1.86
+   },
+   "osmUnknownKm": 1.02,
+   "weightedLimit": 82
+  },
+  {
+   "id": 59,
+   "road": "I-4",
+   "start": {
+    "name": "Голец",
+    "km": 40.67,
+    "lat": 43.042188,
+    "lon": 24.59428
+   },
+   "end": {
+    "name": "Сопот",
+    "km": 22.734,
+    "lat": 43.033142,
+    "lon": 24.379286
+   },
+   "lengthKm": 17.936,
+   "speedLimit": 80,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 14.37,
+    "70": 0.21,
+    "60": 0.43,
+    "50": 1.86
+   },
+   "osmUnknownKm": 1.02,
+   "weightedLimit": 82
+  },
+  {
+   "id": 60,
+   "road": "I-4",
+   "start": {
+    "name": "Ряховците",
+    "km": 76.135,
+    "lat": 43.040831,
+    "lon": 24.949494
+   },
+   "end": {
+    "name": "Богатово",
+    "km": 93.155,
+    "lat": 43.037804,
+    "lon": 25.155155
+   },
+   "lengthKm": 17.02,
+   "speedLimit": 60,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 12.9,
+    "70": 1.23,
+    "60": 2.02,
+    "40": 0.17
+   },
+   "osmUnknownKm": 0.66,
+   "weightedLimit": 82
+  },
+  {
+   "id": 61,
+   "road": "I-4",
+   "start": {
+    "name": "Богатово",
+    "km": 93.155,
+    "lat": 43.037804,
+    "lon": 25.155155
+   },
+   "end": {
+    "name": "Ряховците",
+    "km": 76.135,
+    "lat": 43.040831,
+    "lon": 24.949494
+   },
+   "lengthKm": 17.02,
+   "speedLimit": 60,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 12.86,
+    "70": 1.23,
+    "60": 2.07,
+    "40": 0.17
+   },
+   "osmUnknownKm": 0.66,
+   "weightedLimit": 82
+  },
+  {
+   "id": 62,
+   "road": "I-4",
+   "start": {
+    "name": "Богатово",
+    "km": 93.155,
+    "lat": 43.037804,
+    "lon": 25.155155
+   },
+   "end": {
+    "name": "Момин сбор",
+    "km": 116.9,
+    "lat": 43.085293,
+    "lon": 25.427442
+   },
+   "lengthKm": 23.745,
+   "speedLimit": 80,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 20.12,
+    "70": 0.82,
+    "60": 1.26,
+    "50": 1.22
+   },
+   "osmUnknownKm": 0.41,
+   "weightedLimit": 83
+  },
+  {
+   "id": 63,
+   "road": "I-4",
+   "start": {
+    "name": "Момин сбор",
+    "km": 116.9,
+    "lat": 43.085293,
+    "lon": 25.427442
+   },
+   "end": {
+    "name": "Богатово",
+    "km": 93.155,
+    "lat": 43.037804,
+    "lon": 25.155155
+   },
+   "lengthKm": 23.745,
+   "speedLimit": 80,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 20.03,
+    "70": 0.82,
+    "60": 1.35,
+    "50": 1.22
+   },
+   "osmUnknownKm": 0.41,
+   "weightedLimit": 83
+  },
+  {
+   "id": 64,
+   "road": "I-4",
+   "start": {
+    "name": "Моравица",
+    "km": 175.799,
+    "lat": 43.158713,
+    "lon": 26.129382
+   },
+   "end": {
+    "name": "Омуртаг",
+    "km": 204.539,
+    "lat": 43.117991,
+    "lon": 26.413949
+   },
+   "lengthKm": 28.74,
+   "speedLimit": 80,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 25.77,
+    "60": 0.66,
+    "50": 0.86
+   },
+   "osmUnknownKm": 1.21,
+   "weightedLimit": 87
+  },
+  {
+   "id": 65,
+   "road": "I-4",
+   "start": {
+    "name": "Омуртаг",
+    "km": 204.539,
+    "lat": 43.117991,
+    "lon": 26.413949
+   },
+   "end": {
+    "name": "Моравица",
+    "km": 175.799,
+    "lat": 43.158713,
+    "lon": 26.129382
+   },
+   "lengthKm": 28.74,
+   "speedLimit": 80,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 26.17,
+    "60": 0.26,
+    "50": 0.86
+   },
+   "osmUnknownKm": 1.21,
+   "weightedLimit": 87
+  },
+  {
+   "id": 66,
+   "road": "I-4",
+   "start": {
+    "name": "Омуртаг",
+    "km": 204.539,
+    "lat": 43.117991,
+    "lon": 26.413949
+   },
+   "end": {
+    "name": "Пролаз",
+    "km": 217.988,
+    "lat": 43.196742,
+    "lon": 26.502579
+   },
+   "lengthKm": 13.449,
+   "speedLimit": 70,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 5.74,
+    "70": 1.47,
+    "60": 3.79
+   },
+   "osmUnknownKm": 2.49,
+   "weightedLimit": 74
+  },
+  {
+   "id": 67,
+   "road": "I-4",
+   "start": {
+    "name": "Пролаз",
+    "km": 217.988,
+    "lat": 43.196742,
+    "lon": 26.502579
+   },
+   "end": {
+    "name": "Омуртаг",
+    "km": 204.539,
+    "lat": 43.117991,
+    "lon": 26.413949
+   },
+   "lengthKm": 13.449,
+   "speedLimit": 70,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 5.81,
+    "70": 1.32,
+    "60": 3.86
+   },
+   "osmUnknownKm": 2.49,
+   "weightedLimit": 74
+  },
+  {
+   "id": 68,
+   "road": "I-5",
+   "start": {
+    "name": "Полски Тръмбеш",
+    "km": 68.946,
+    "lat": 43.366891,
+    "lon": 25.642513
+   },
+   "end": {
+    "name": "Поликраище",
+    "km": 89.971,
+    "lat": 43.183482,
+    "lon": 25.619864
+   },
+   "lengthKm": 21.025,
+   "speedLimit": 50,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 12.8,
+    "70": 0.32,
+    "60": 1.12,
+    "50": 6.25
+   },
+   "osmUnknownKm": 0.61,
+   "weightedLimit": 71
+  },
+  {
+   "id": 69,
+   "road": "I-5",
+   "start": {
+    "name": "Поликраище",
+    "km": 89.971,
+    "lat": 43.183482,
+    "lon": 25.619864
+   },
+   "end": {
+    "name": "Полски Тръмбеш",
+    "km": 68.946,
+    "lat": 43.366891,
+    "lon": 25.642513
+   },
+   "lengthKm": 21.025,
+   "speedLimit": 50,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 12.79,
+    "70": 0.33,
+    "60": 1.12,
+    "50": 6.25
+   },
+   "osmUnknownKm": 0.61,
+   "weightedLimit": 71
+  },
+  {
+   "id": 70,
+   "road": "I-5",
+   "start": {
+    "name": "Обретеник",
+    "km": 34.704,
+    "lat": 43.571859,
+    "lon": 25.822091
+   },
+   "end": {
+    "name": "Тръстеник",
+    "km": 25.914,
+    "lat": 43.641595,
+    "lon": 25.872947
+   },
+   "lengthKm": 8.79,
+   "speedLimit": 80,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 8.54,
+    "70": 0.34
+   },
+   "osmUnknownKm": 0.01,
+   "weightedLimit": 89
+  },
+  {
+   "id": 71,
+   "road": "I-5",
+   "start": {
+    "name": "Тръстеник",
+    "km": 25.914,
+    "lat": 43.641595,
+    "lon": 25.872947
+   },
+   "end": {
+    "name": "Обретеник",
+    "km": 34.704,
+    "lat": 43.571859,
+    "lon": 25.822091
+   },
+   "lengthKm": 8.79,
+   "speedLimit": 80,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 8.28,
+    "70": 0.6
+   },
+   "osmUnknownKm": 0.01,
+   "weightedLimit": 88
+  },
+  {
+   "id": 72,
+   "road": "I-5",
+   "start": {
+    "name": "Одяланик",
+    "km": 11.382,
+    "lat": 43.756428,
+    "lon": 25.90658
+   },
+   "end": {
+    "name": "Тръстеник",
+    "km": 25.914,
+    "lat": 43.641595,
+    "lon": 25.872947
+   },
+   "lengthKm": 14.532,
+   "speedLimit": 90,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 14.14
+   },
+   "osmUnknownKm": 0.2,
+   "weightedLimit": 90
+  },
+  {
+   "id": 73,
+   "road": "I-5",
+   "start": {
+    "name": "Тръстеник",
+    "km": 25.914,
+    "lat": 43.641595,
+    "lon": 25.872947
+   },
+   "end": {
+    "name": "Одяланик",
+    "km": 11.382,
+    "lat": 43.756428,
+    "lon": 25.90658
+   },
+   "lengthKm": 14.532,
+   "speedLimit": 90,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 14.14
+   },
+   "osmUnknownKm": 0.2,
+   "weightedLimit": 90
+  },
+  {
+   "id": 74,
+   "road": "I-5",
+   "start": {
+    "name": "Поликраище",
+    "km": 89.971,
+    "lat": 43.183482,
+    "lon": 25.619864
+   },
+   "end": {
+    "name": "Самоводене",
+    "km": 96.514,
+    "lat": 43.134133,
+    "lon": 25.613253
+   },
+   "lengthKm": 6.543,
+   "speedLimit": 50,
+   "pending": false,
+   "note": null,
+   "verified": false,
+   "osmLimits": {
+    "90": 1.38,
+    "60": 0.62,
+    "50": 3.1
+   },
+   "osmUnknownKm": 0.73,
+   "weightedLimit": 58
+  },
+  {
+   "id": 75,
+   "road": "I-5",
+   "start": {
+    "name": "Самоводене",
+    "km": 96.514,
+    "lat": 43.134133,
+    "lon": 25.613253
+   },
+   "end": {
+    "name": "Поликраище",
+    "km": 89.971,
+    "lat": 43.183482,
+    "lon": 25.619864
+   },
+   "lengthKm": 6.543,
+   "speedLimit": 50,
+   "pending": false,
+   "note": null,
+   "verified": false,
+   "osmLimits": {
+    "90": 1.38,
+    "60": 0.62,
+    "50": 3.1
+   },
+   "osmUnknownKm": 0.73,
+   "weightedLimit": 58
+  },
+  {
+   "id": 76,
+   "road": "I-5",
+   "start": {
+    "name": "Шипка",
+    "km": 182.979,
+    "lat": 42.719224,
+    "lon": 25.312251
+   },
+   "end": {
+    "name": "Крън",
+    "km": 191.876,
+    "lat": 42.663933,
+    "lon": 25.373122
+   },
+   "lengthKm": 8.897,
+   "speedLimit": 70,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 5.52,
+    "50": 2.48
+   },
+   "osmUnknownKm": 0.79,
+   "weightedLimit": 72
+  },
+  {
+   "id": 77,
+   "road": "I-5",
+   "start": {
+    "name": "Крън",
+    "km": 191.876,
+    "lat": 42.663933,
+    "lon": 25.373122
+   },
+   "end": {
+    "name": "Шипка",
+    "km": 182.979,
+    "lat": 42.719224,
+    "lon": 25.312251
+   },
+   "lengthKm": 8.897,
+   "speedLimit": 70,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 5.52,
+    "50": 2.48
+   },
+   "osmUnknownKm": 0.79,
+   "weightedLimit": 72
+  },
+  {
+   "id": 78,
+   "road": "I-5",
+   "start": {
+    "name": "Казанлък",
+    "km": 199.527,
+    "lat": 42.610207,
+    "lon": 25.449567
+   },
+   "end": {
+    "name": "Ягода",
+    "km": 212.716,
+    "lat": 42.537372,
+    "lon": 25.565727
+   },
+   "lengthKm": 13.189,
+   "speedLimit": 50,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 9.76,
+    "60": 0.6,
+    "50": 1.95
+   },
+   "osmUnknownKm": 0.97,
+   "weightedLimit": 78
+  },
+  {
+   "id": 79,
+   "road": "I-5",
+   "start": {
+    "name": "Ягода",
+    "km": 212.716,
+    "lat": 42.537372,
+    "lon": 25.565727
+   },
+   "end": {
+    "name": "Казанлък",
+    "km": 199.527,
+    "lat": 42.610207,
+    "lon": 25.449567
+   },
+   "lengthKm": 13.189,
+   "speedLimit": 50,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 9.76,
+    "60": 0.6,
+    "50": 1.95
+   },
+   "osmUnknownKm": 0.97,
+   "weightedLimit": 78
+  },
+  {
+   "id": 80,
+   "road": "I-8",
+   "start": {
+    "name": "Ихтиман",
+    "km": 123.404,
+    "lat": 42.294041,
+    "lon": 23.877076
+   },
+   "end": {
+    "name": "Мирово",
+    "km": 134.876,
+    "lat": 42.379375,
+    "lon": 23.876362
+   },
+   "lengthKm": 11.472,
+   "speedLimit": 60,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 4.91,
+    "60": 0.63,
+    "50": 1.63,
+    "40": 2.6
+   },
+   "osmUnknownKm": 1.61,
+   "weightedLimit": 60
+  },
+  {
+   "id": 81,
+   "road": "I-8",
+   "start": {
+    "name": "Мирово",
+    "km": 134.876,
+    "lat": 42.379375,
+    "lon": 23.876362
+   },
+   "end": {
+    "name": "Ихтиман",
+    "km": 123.404,
+    "lat": 42.294041,
+    "lon": 23.877076
+   },
+   "lengthKm": 11.472,
+   "speedLimit": 60,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 5.54,
+    "50": 1.82,
+    "40": 2.41
+   },
+   "osmUnknownKm": 1.61,
+   "weightedLimit": 62
+  },
+  {
+   "id": 82,
+   "road": "II-55",
+   "start": {
+    "name": "Килифарево",
+    "km": 5.14,
+    "lat": 43.000053,
+    "lon": 25.617911
+   },
+   "end": {
+    "name": "Въглевци",
+    "km": 18.395,
+    "lat": 42.908793,
+    "lon": 25.649466
+   },
+   "lengthKm": 13.255,
+   "speedLimit": 80,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 9.43,
+    "60": 1.9,
+    "50": 0.58
+   },
+   "osmUnknownKm": 1.38,
+   "weightedLimit": 80
+  },
+  {
+   "id": 83,
+   "road": "II-55",
+   "start": {
+    "name": "Въглевци",
+    "km": 18.395,
+    "lat": 42.908793,
+    "lon": 25.649466
+   },
+   "end": {
+    "name": "Килифарево",
+    "km": 5.14,
+    "lat": 43.000053,
+    "lon": 25.617911
+   },
+   "lengthKm": 13.255,
+   "speedLimit": 80,
+   "pending": false,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "90": 9.43,
+    "60": 1.9,
+    "50": 0.58
+   },
+   "osmUnknownKm": 1.38,
+   "weightedLimit": 80
+  },
+  {
+   "id": 84,
+   "road": "АМ \"Хемус\"",
+   "start": {
+    "name": "Белокопитово",
+    "km": 340.293,
+    "lat": 43.337018,
+    "lon": 26.900156
+   },
+   "end": {
+    "name": "Каспичан",
+    "km": 361.581,
+    "lat": 43.323227,
+    "lon": 27.149452
+   },
+   "lengthKm": 21.288,
+   "speedLimit": 140,
+   "pending": true,
+   "note": "/Пътен участък в ремонт/",
+   "verified": true,
+   "osmLimits": {
+    "140": 21.14
+   },
+   "osmUnknownKm": 0.11,
+   "weightedLimit": 140
+  },
+  {
+   "id": 85,
+   "road": "АМ \"Хемус\"",
+   "start": {
+    "name": "Каспичан",
+    "km": 361.581,
+    "lat": 43.323227,
+    "lon": 27.149452
+   },
+   "end": {
+    "name": "Белокопитово",
+    "km": 340.293,
+    "lat": 43.337018,
+    "lon": 26.900156
+   },
+   "lengthKm": 21.288,
+   "speedLimit": 140,
+   "pending": true,
+   "note": "/Пътен участък в ремонт/",
+   "verified": true,
+   "osmLimits": {
+    "140": 21.14
+   },
+   "osmUnknownKm": 0.11,
+   "weightedLimit": 140
+  },
+  {
+   "id": 86,
+   "road": "АМ \"Марица\"",
+   "start": {
+    "name": "Момково",
+    "km": 89.476,
+    "lat": 41.832172,
+    "lon": 26.140699
+   },
+   "end": {
+    "name": "Свиленград",
+    "km": 98.481,
+    "lat": 41.778808,
+    "lon": 26.217492
+   },
+   "lengthKm": 9.005,
+   "speedLimit": 140,
+   "pending": true,
+   "note": null,
+   "verified": true,
+   "osmLimits": {
+    "140": 8.82
+   },
+   "osmUnknownKm": 0.15,
+   "weightedLimit": 140
+  }
+ ]
+}
