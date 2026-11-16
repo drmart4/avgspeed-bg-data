@@ -93,6 +93,23 @@ def apply_official_rule(o):
     o["mixedSettlement"] = bool(mix.get(50, 0) >= 0.3 and len(mix) > 1)
 
 
+def apply_manual_limits(sections):
+    """Ръчни корекции по посоки от tools/manual_limits.json (наблюдения на място, където
+    OpenStreetMap не различава посоките или е неточен). Имат предимство пред изчисленото."""
+    path = os.path.join(TOOLS, "manual_limits.json")
+    if not os.path.exists(path):
+        return
+    for m in json.load(open(path, encoding="utf-8")):
+        for o in sections:
+            if (o["road"] == m["road"] and abs(o["start"]["km"] - m["startKm"]) < 0.001
+                    and abs(o["end"]["km"] - m["endKm"]) < 0.001):
+                o["speedLimit"] = m["speedLimit"]
+                if "lowestLimit" in m:
+                    o["lowestLimit"] = m["lowestLimit"]
+                o["limitSource"] = "manual"
+                o["limitNote"] = m.get("note")
+
+
 def parse_bgtoll(page):
     tables = re.findall(r"<table.*?</table>", page, re.S)
     out = []
@@ -156,6 +173,7 @@ def main():
     data = json.load(open("avg_sections_limits.json"))
     for o in data:
         apply_official_rule(o)
+    apply_manual_limits(data)
     json.dump(data, open("array.json", "w"), ensure_ascii=False)
 
     print("4/4 Сравнение и публикуване…")

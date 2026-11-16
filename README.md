@@ -19,4 +19,4 @@ BG TOLL не публикува координати и ограничения. 
 
 Всеки понеделник в 09:30 Mac-ът на поддържащия пуска [`tools/weekly_mac.sh`](tools/weekly_mac.sh) (LaunchAgent): сверява списъка на BG TOLL и OpenStreetMap и публикува нова версия само ако има промяна и данните минат проверките. (GitHub Actions не може да го прави – сайтът на BG TOLL отказва достъп на сървърите на GitHub.)
 
-Ръчно: `python3 tools/update.py`, след това commit и push на `sections.json`. Ръчните корекции на точки са в речника `OVR` в `tools/build6.py`.
+Ръчно: `python3 tools/update.py`, след това commit и push на `sections.json`. Ръчните корекции на точки са в речника `OVR` в `tools/build6.py`. Ръчните корекции на ограниченията по посоки (наблюдения на място) са в [`tools/manual_limits.json`](tools/manual_limits.json) и имат предимство пред OpenStreetMap.

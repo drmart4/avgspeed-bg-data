@@ -1,6 +1,6 @@
 {
- "version": "2026-11-16.3",
- "generated": "2026-11-16 02:20",
+ "version": "2026-11-16.4",
+ "generated": "2026-11-16 02:26",
  "source": "BG TOLL (списък на сертифицираните отсечки) + © OpenStreetMap contributors (ODbL)",
  "sections": [
   {
@@ -747,7 +747,7 @@
     "lon": 23.73616
    },
    "lengthKm": 20.22,
-   "speedLimit": 140,
+   "speedLimit": 120,
    "pending": false,
    "note": null,
    "verified": true,
@@ -757,8 +757,10 @@
    },
    "osmUnknownKm": 2.11,
    "weightedLimit": 136,
-   "lowestLimit": 120,
-   "mixedSettlement": false
+   "lowestLimit": 90,
+   "mixedSettlement": false,
+   "limitSource": "manual",
+   "limitNote": "Ръчна корекция по наблюдение на място (16.11.2026): в посока Ботевград няма участък със 140 – максимумът е 120, има и части с 90. OpenStreetMap не различава посоките тук."
   },
   {
    "id": 28,
@@ -786,8 +788,10 @@
    },
    "osmUnknownKm": 2.11,
    "weightedLimit": 136,
-   "lowestLimit": 120,
-   "mixedSettlement": false
+   "lowestLimit": 90,
+   "mixedSettlement": false,
+   "limitSource": "manual",
+   "limitNote": "Ръчна корекция по наблюдение на място (16.11.2026): в посока София има част със 140, има и части със 120 и 90."
   },
   {
    "id": 29,
