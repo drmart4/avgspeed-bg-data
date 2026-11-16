@@ -74,6 +74,25 @@ def road_ref(road):
     raise ValueError(f"Непознат път: {road}")
 
 
+def road_default(road):
+    if "Северна скоростна тангента" in road:
+        return 120
+    return 140 if road.startswith("АМ") else 90
+
+
+def apply_official_rule(o):
+    """Инструкция № РД-02-21-1/16.04.2020 (изм. ДВ бр. 13/03.02.2026), чл. 8:
+    ал. 10 – при последователни различни ограничения се приема ограничението,
+             позволяващо движение с най-високата скорост;
+    ал. 12 – към МВР се подават нарушения само за участъци изцяло в или изцяло извън населено място.
+    Ограниченията по участъци идват от OpenStreetMap; части под 300 m се пренебрегват (грешки/кръстовища)."""
+    mix = {int(k): km for k, km in (o.get("osmLimits") or {}).items() if km >= 0.3}
+    o["speedLimit"] = max(mix) if mix else road_default(o["road"])
+    o["lowestLimit"] = min(mix) if mix else o["speedLimit"]
+    # 50 km/h е общото ограничение в населено място – участък с такава част вероятно минава през селище.
+    o["mixedSettlement"] = bool(mix.get(50, 0) >= 0.3 and len(mix) > 1)
+
+
 def parse_bgtoll(page):
     tables = re.findall(r"<table.*?</table>", page, re.S)
     out = []
@@ -135,9 +154,8 @@ def main():
     subprocess.run([sys.executable, "-I", "build6.py"], check=True)
     subprocess.run([sys.executable, "-I", "limits.py"], check=True)
     data = json.load(open("avg_sections_limits.json"))
-    for o in data:  # предпазлива стойност по подразбиране
-        w = o.get("weightedLimit") or o["speedLimit"]
-        o["speedLimit"] = min(o["speedLimit"], int(w // 10 * 10))
+    for o in data:
+        apply_official_rule(o)
     json.dump(data, open("array.json", "w"), ensure_ascii=False)
 
     print("4/4 Сравнение и публикуване…")

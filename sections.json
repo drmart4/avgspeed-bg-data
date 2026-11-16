@@ -1,6 +1,6 @@
 {
- "version": "2026-11-16.2",
- "generated": "2026-11-16 01:50",
+ "version": "2026-11-16.3",
+ "generated": "2026-11-16 02:20",
  "source": "BG TOLL (списък на сертифицираните отсечки) + © OpenStreetMap contributors (ODbL)",
  "sections": [
   {
@@ -27,7 +27,9 @@
     "140": 4.58
    },
    "osmUnknownKm": 0.28,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 2,
@@ -53,7 +55,9 @@
     "140": 4.58
    },
    "osmUnknownKm": 0.28,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 3,
@@ -79,7 +83,9 @@
     "140": 19.04
    },
    "osmUnknownKm": 0.1,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 4,
@@ -105,7 +111,9 @@
     "140": 19.04
    },
    "osmUnknownKm": 0.1,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 5,
@@ -131,7 +139,9 @@
     "140": 25.61
    },
    "osmUnknownKm": 0.08,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 6,
@@ -157,7 +167,9 @@
     "140": 25.61
    },
    "osmUnknownKm": 0.08,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 7,
@@ -183,7 +195,9 @@
     "140": 10.58
    },
    "osmUnknownKm": 0.06,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 8,
@@ -209,7 +223,9 @@
     "140": 10.58
    },
    "osmUnknownKm": 0.06,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 9,
@@ -235,7 +251,9 @@
     "140": 3.87
    },
    "osmUnknownKm": 0.16,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 10,
@@ -261,7 +279,9 @@
     "140": 3.87
    },
    "osmUnknownKm": 0.16,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 11,
@@ -287,7 +307,9 @@
     "140": 14.56
    },
    "osmUnknownKm": 0.05,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 12,
@@ -313,7 +335,9 @@
     "140": 14.56
    },
    "osmUnknownKm": 0.05,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 13,
@@ -339,7 +363,9 @@
     "140": 21.86
    },
    "osmUnknownKm": 0.09,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 14,
@@ -365,7 +391,9 @@
     "140": 21.86
    },
    "osmUnknownKm": 0.09,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 15,
@@ -391,7 +419,9 @@
     "140": 13.34
    },
    "osmUnknownKm": 0.01,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 16,
@@ -417,7 +447,9 @@
     "140": 13.34
    },
    "osmUnknownKm": 0.01,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 17,
@@ -443,7 +475,9 @@
     "140": 33.39
    },
    "osmUnknownKm": 0.21,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 18,
@@ -469,7 +503,9 @@
     "140": 33.39
    },
    "osmUnknownKm": 0.21,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 19,
@@ -495,7 +531,9 @@
     "140": 34.41
    },
    "osmUnknownKm": 0.2,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 20,
@@ -521,7 +559,9 @@
     "140": 34.41
    },
    "osmUnknownKm": 0.2,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 21,
@@ -547,7 +587,9 @@
     "140": 35.51
    },
    "osmUnknownKm": 0.26,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 22,
@@ -573,7 +615,9 @@
     "140": 35.51
    },
    "osmUnknownKm": 0.26,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 23,
@@ -599,7 +643,9 @@
     "140": 17.58
    },
    "osmUnknownKm": 0.14,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 24,
@@ -625,7 +671,9 @@
     "140": 17.58
    },
    "osmUnknownKm": 0.14,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 25,
@@ -651,7 +699,9 @@
     "140": 13.08
    },
    "osmUnknownKm": 0.06,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 26,
@@ -677,7 +727,9 @@
     "140": 13.08
    },
    "osmUnknownKm": 0.06,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 27,
@@ -695,7 +747,7 @@
     "lon": 23.73616
    },
    "lengthKm": 20.22,
-   "speedLimit": 120,
+   "speedLimit": 140,
    "pending": false,
    "note": null,
    "verified": true,
@@ -704,7 +756,9 @@
     "120": 3.3
    },
    "osmUnknownKm": 2.11,
-   "weightedLimit": 136
+   "weightedLimit": 136,
+   "lowestLimit": 120,
+   "mixedSettlement": false
   },
   {
    "id": 28,
@@ -722,7 +776,7 @@
     "lon": 23.527907
    },
    "lengthKm": 20.22,
-   "speedLimit": 120,
+   "speedLimit": 140,
    "pending": false,
    "note": null,
    "verified": true,
@@ -731,7 +785,9 @@
     "120": 3.3
    },
    "osmUnknownKm": 2.11,
-   "weightedLimit": 136
+   "weightedLimit": 136,
+   "lowestLimit": 120,
+   "mixedSettlement": false
   },
   {
    "id": 29,
@@ -749,7 +805,7 @@
     "lon": 27.774612
    },
    "lengthKm": 18.423,
-   "speedLimit": 130,
+   "speedLimit": 140,
    "pending": false,
    "note": null,
    "verified": true,
@@ -758,7 +814,9 @@
     "120": 0.97
    },
    "osmUnknownKm": 0.47,
-   "weightedLimit": 139
+   "weightedLimit": 139,
+   "lowestLimit": 120,
+   "mixedSettlement": false
   },
   {
    "id": 30,
@@ -776,7 +834,7 @@
     "lon": 27.559635
    },
    "lengthKm": 18.423,
-   "speedLimit": 130,
+   "speedLimit": 140,
    "pending": false,
    "note": null,
    "verified": true,
@@ -785,7 +843,9 @@
     "120": 0.97
    },
    "osmUnknownKm": 0.47,
-   "weightedLimit": 139
+   "weightedLimit": 139,
+   "lowestLimit": 120,
+   "mixedSettlement": false
   },
   {
    "id": 31,
@@ -803,7 +863,7 @@
     "lon": 23.155106
    },
    "lengthKm": 7.554,
-   "speedLimit": 130,
+   "speedLimit": 140,
    "pending": false,
    "note": null,
    "verified": true,
@@ -812,7 +872,9 @@
     "80": 0.3
    },
    "osmUnknownKm": 0.56,
-   "weightedLimit": 136
+   "weightedLimit": 136,
+   "lowestLimit": 80,
+   "mixedSettlement": false
   },
   {
    "id": 32,
@@ -830,7 +892,7 @@
     "lon": 23.233205
    },
    "lengthKm": 7.554,
-   "speedLimit": 130,
+   "speedLimit": 140,
    "pending": false,
    "note": null,
    "verified": true,
@@ -839,7 +901,9 @@
     "80": 0.3
    },
    "osmUnknownKm": 0.56,
-   "weightedLimit": 136
+   "weightedLimit": 136,
+   "lowestLimit": 80,
+   "mixedSettlement": false
   },
   {
    "id": 33,
@@ -865,7 +929,9 @@
     "140": 2.58
    },
    "osmUnknownKm": 0.05,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 34,
@@ -891,7 +957,9 @@
     "140": 2.58
    },
    "osmUnknownKm": 0.05,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 35,
@@ -917,7 +985,9 @@
     "140": 2.27
    },
    "osmUnknownKm": 0.06,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 36,
@@ -943,7 +1013,9 @@
     "140": 2.27
    },
    "osmUnknownKm": 0.06,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 37,
@@ -969,7 +1041,9 @@
     "140": 13.88
    },
    "osmUnknownKm": 0.35,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 38,
@@ -995,7 +1069,9 @@
     "140": 13.88
    },
    "osmUnknownKm": 0.35,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 39,
@@ -1021,7 +1097,9 @@
     "140": 6.89
    },
    "osmUnknownKm": 0.4,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 40,
@@ -1047,7 +1125,9 @@
     "140": 6.89
    },
    "osmUnknownKm": 0.4,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 41,
@@ -1073,7 +1153,9 @@
     "140": 11.81
    },
    "osmUnknownKm": 0.4,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 42,
@@ -1099,7 +1181,9 @@
     "140": 11.81
    },
    "osmUnknownKm": 0.4,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 43,
@@ -1125,7 +1209,9 @@
     "140": 19.6
    },
    "osmUnknownKm": 1.32,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 44,
@@ -1151,7 +1237,9 @@
     "140": 19.6
    },
    "osmUnknownKm": 1.32,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 45,
@@ -1177,7 +1265,9 @@
     "140": 5.57
    },
    "osmUnknownKm": 0.34,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 46,
@@ -1203,7 +1293,9 @@
     "140": 5.57
    },
    "osmUnknownKm": 0.34,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 47,
@@ -1229,7 +1321,9 @@
     "140": 8.82
    },
    "osmUnknownKm": 0.15,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 48,
@@ -1255,7 +1349,9 @@
     "120": 10.15
    },
    "osmUnknownKm": 0.1,
-   "weightedLimit": 120
+   "weightedLimit": 120,
+   "lowestLimit": 120,
+   "mixedSettlement": false
   },
   {
    "id": 49,
@@ -1281,7 +1377,9 @@
     "120": 10.15
    },
    "osmUnknownKm": 0.1,
-   "weightedLimit": 120
+   "weightedLimit": 120,
+   "lowestLimit": 120,
+   "mixedSettlement": false
   },
   {
    "id": 50,
@@ -1299,7 +1397,7 @@
     "lon": 22.753623
    },
    "lengthKm": 11.266,
-   "speedLimit": 50,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1309,7 +1407,9 @@
     "50": 1.25
    },
    "osmUnknownKm": 4.19,
-   "weightedLimit": 75
+   "weightedLimit": 75,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 51,
@@ -1327,7 +1427,7 @@
     "lon": 22.811947
    },
    "lengthKm": 11.266,
-   "speedLimit": 50,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1337,7 +1437,9 @@
     "50": 1.25
    },
    "osmUnknownKm": 4.19,
-   "weightedLimit": 75
+   "weightedLimit": 75,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 52,
@@ -1355,7 +1457,7 @@
     "lon": 26.92011
    },
    "lengthKm": 7.648,
-   "speedLimit": 70,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1365,7 +1467,9 @@
     "50": 0.97
    },
    "osmUnknownKm": 0.26,
-   "weightedLimit": 76
+   "weightedLimit": 76,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 53,
@@ -1383,7 +1487,7 @@
     "lon": 26.851127
    },
    "lengthKm": 7.648,
-   "speedLimit": 70,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1393,7 +1497,9 @@
     "50": 0.97
    },
    "osmUnknownKm": 0.26,
-   "weightedLimit": 76
+   "weightedLimit": 76,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 54,
@@ -1419,7 +1525,9 @@
     "90": 19.54
    },
    "osmUnknownKm": 2.26,
-   "weightedLimit": 90
+   "weightedLimit": 90,
+   "lowestLimit": 90,
+   "mixedSettlement": false
   },
   {
    "id": 55,
@@ -1445,7 +1553,9 @@
     "90": 19.54
    },
    "osmUnknownKm": 2.26,
-   "weightedLimit": 90
+   "weightedLimit": 90,
+   "lowestLimit": 90,
+   "mixedSettlement": false
   },
   {
    "id": 56,
@@ -1463,7 +1573,7 @@
     "lon": 25.358027
    },
    "lengthKm": 21.274,
-   "speedLimit": 80,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1473,7 +1583,9 @@
     "50": 0.33
    },
    "osmUnknownKm": 0.24,
-   "weightedLimit": 89
+   "weightedLimit": 89,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 57,
@@ -1491,7 +1603,7 @@
     "lon": 25.610222
    },
    "lengthKm": 21.274,
-   "speedLimit": 80,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1501,7 +1613,9 @@
     "50": 0.33
    },
    "osmUnknownKm": 0.24,
-   "weightedLimit": 89
+   "weightedLimit": 89,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 58,
@@ -1519,7 +1633,7 @@
     "lon": 24.59428
    },
    "lengthKm": 17.936,
-   "speedLimit": 80,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1530,7 +1644,9 @@
     "50": 1.86
    },
    "osmUnknownKm": 1.02,
-   "weightedLimit": 82
+   "weightedLimit": 82,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 59,
@@ -1548,7 +1664,7 @@
     "lon": 24.379286
    },
    "lengthKm": 17.936,
-   "speedLimit": 80,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1559,7 +1675,9 @@
     "50": 1.86
    },
    "osmUnknownKm": 1.02,
-   "weightedLimit": 82
+   "weightedLimit": 82,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 60,
@@ -1577,7 +1695,7 @@
     "lon": 25.155155
    },
    "lengthKm": 17.02,
-   "speedLimit": 60,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1588,7 +1706,9 @@
     "40": 0.17
    },
    "osmUnknownKm": 0.66,
-   "weightedLimit": 82
+   "weightedLimit": 82,
+   "lowestLimit": 60,
+   "mixedSettlement": false
   },
   {
    "id": 61,
@@ -1606,7 +1726,7 @@
     "lon": 24.949494
    },
    "lengthKm": 17.02,
-   "speedLimit": 60,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1617,7 +1737,9 @@
     "40": 0.17
    },
    "osmUnknownKm": 0.66,
-   "weightedLimit": 82
+   "weightedLimit": 82,
+   "lowestLimit": 60,
+   "mixedSettlement": false
   },
   {
    "id": 62,
@@ -1635,7 +1757,7 @@
     "lon": 25.427442
    },
    "lengthKm": 23.745,
-   "speedLimit": 80,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1646,7 +1768,9 @@
     "50": 1.22
    },
    "osmUnknownKm": 0.41,
-   "weightedLimit": 83
+   "weightedLimit": 83,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 63,
@@ -1664,7 +1788,7 @@
     "lon": 25.155155
    },
    "lengthKm": 23.745,
-   "speedLimit": 80,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1675,7 +1799,9 @@
     "50": 1.22
    },
    "osmUnknownKm": 0.41,
-   "weightedLimit": 83
+   "weightedLimit": 83,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 64,
@@ -1693,7 +1819,7 @@
     "lon": 26.413949
    },
    "lengthKm": 28.74,
-   "speedLimit": 80,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1703,7 +1829,9 @@
     "50": 0.86
    },
    "osmUnknownKm": 1.21,
-   "weightedLimit": 87
+   "weightedLimit": 87,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 65,
@@ -1721,7 +1849,7 @@
     "lon": 26.129382
    },
    "lengthKm": 28.74,
-   "speedLimit": 80,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1731,7 +1859,9 @@
     "50": 0.86
    },
    "osmUnknownKm": 1.21,
-   "weightedLimit": 87
+   "weightedLimit": 87,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 66,
@@ -1749,7 +1879,7 @@
     "lon": 26.502579
    },
    "lengthKm": 13.449,
-   "speedLimit": 70,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1759,7 +1889,9 @@
     "60": 3.79
    },
    "osmUnknownKm": 2.49,
-   "weightedLimit": 74
+   "weightedLimit": 74,
+   "lowestLimit": 60,
+   "mixedSettlement": false
   },
   {
    "id": 67,
@@ -1777,7 +1909,7 @@
     "lon": 26.413949
    },
    "lengthKm": 13.449,
-   "speedLimit": 70,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1787,7 +1919,9 @@
     "60": 3.86
    },
    "osmUnknownKm": 2.49,
-   "weightedLimit": 74
+   "weightedLimit": 74,
+   "lowestLimit": 60,
+   "mixedSettlement": false
   },
   {
    "id": 68,
@@ -1805,7 +1939,7 @@
     "lon": 25.619864
    },
    "lengthKm": 21.025,
-   "speedLimit": 50,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1816,7 +1950,9 @@
     "50": 6.25
    },
    "osmUnknownKm": 0.61,
-   "weightedLimit": 71
+   "weightedLimit": 71,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 69,
@@ -1834,7 +1970,7 @@
     "lon": 25.642513
    },
    "lengthKm": 21.025,
-   "speedLimit": 50,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1845,7 +1981,9 @@
     "50": 6.25
    },
    "osmUnknownKm": 0.61,
-   "weightedLimit": 71
+   "weightedLimit": 71,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 70,
@@ -1863,7 +2001,7 @@
     "lon": 25.872947
    },
    "lengthKm": 8.79,
-   "speedLimit": 80,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1872,7 +2010,9 @@
     "70": 0.34
    },
    "osmUnknownKm": 0.01,
-   "weightedLimit": 89
+   "weightedLimit": 89,
+   "lowestLimit": 70,
+   "mixedSettlement": false
   },
   {
    "id": 71,
@@ -1890,7 +2030,7 @@
     "lon": 25.822091
    },
    "lengthKm": 8.79,
-   "speedLimit": 80,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -1899,7 +2039,9 @@
     "70": 0.6
    },
    "osmUnknownKm": 0.01,
-   "weightedLimit": 88
+   "weightedLimit": 88,
+   "lowestLimit": 70,
+   "mixedSettlement": false
   },
   {
    "id": 72,
@@ -1925,7 +2067,9 @@
     "90": 14.14
    },
    "osmUnknownKm": 0.2,
-   "weightedLimit": 90
+   "weightedLimit": 90,
+   "lowestLimit": 90,
+   "mixedSettlement": false
   },
   {
    "id": 73,
@@ -1951,7 +2095,9 @@
     "90": 14.14
    },
    "osmUnknownKm": 0.2,
-   "weightedLimit": 90
+   "weightedLimit": 90,
+   "lowestLimit": 90,
+   "mixedSettlement": false
   },
   {
    "id": 74,
@@ -1969,7 +2115,7 @@
     "lon": 25.613253
    },
    "lengthKm": 6.543,
-   "speedLimit": 50,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": false,
@@ -1979,7 +2125,9 @@
     "50": 3.1
    },
    "osmUnknownKm": 0.73,
-   "weightedLimit": 58
+   "weightedLimit": 58,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 75,
@@ -1997,7 +2145,7 @@
     "lon": 25.619864
    },
    "lengthKm": 6.543,
-   "speedLimit": 50,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": false,
@@ -2007,7 +2155,9 @@
     "50": 3.1
    },
    "osmUnknownKm": 0.73,
-   "weightedLimit": 58
+   "weightedLimit": 58,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 76,
@@ -2025,7 +2175,7 @@
     "lon": 25.373122
    },
    "lengthKm": 8.897,
-   "speedLimit": 70,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -2034,7 +2184,9 @@
     "50": 2.48
    },
    "osmUnknownKm": 0.79,
-   "weightedLimit": 72
+   "weightedLimit": 72,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 77,
@@ -2052,7 +2204,7 @@
     "lon": 25.312251
    },
    "lengthKm": 8.897,
-   "speedLimit": 70,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -2061,7 +2213,9 @@
     "50": 2.48
    },
    "osmUnknownKm": 0.79,
-   "weightedLimit": 72
+   "weightedLimit": 72,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 78,
@@ -2079,7 +2233,7 @@
     "lon": 25.565727
    },
    "lengthKm": 13.189,
-   "speedLimit": 50,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -2089,7 +2243,9 @@
     "50": 1.95
    },
    "osmUnknownKm": 0.97,
-   "weightedLimit": 78
+   "weightedLimit": 78,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 79,
@@ -2107,7 +2263,7 @@
     "lon": 25.449567
    },
    "lengthKm": 13.189,
-   "speedLimit": 50,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -2117,7 +2273,9 @@
     "50": 1.95
    },
    "osmUnknownKm": 0.97,
-   "weightedLimit": 78
+   "weightedLimit": 78,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 80,
@@ -2135,7 +2293,7 @@
     "lon": 23.876362
    },
    "lengthKm": 11.472,
-   "speedLimit": 60,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -2146,7 +2304,9 @@
     "40": 2.73
    },
    "osmUnknownKm": 1.44,
-   "weightedLimit": 60
+   "weightedLimit": 60,
+   "lowestLimit": 40,
+   "mixedSettlement": true
   },
   {
    "id": 81,
@@ -2164,7 +2324,7 @@
     "lon": 23.877232
    },
    "lengthKm": 11.472,
-   "speedLimit": 60,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -2174,7 +2334,9 @@
     "40": 2.56
    },
    "osmUnknownKm": 1.44,
-   "weightedLimit": 61
+   "weightedLimit": 61,
+   "lowestLimit": 40,
+   "mixedSettlement": true
   },
   {
    "id": 82,
@@ -2192,7 +2354,7 @@
     "lon": 25.649466
    },
    "lengthKm": 13.255,
-   "speedLimit": 80,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -2202,7 +2364,9 @@
     "50": 0.63
    },
    "osmUnknownKm": 1.33,
-   "weightedLimit": 80
+   "weightedLimit": 80,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 83,
@@ -2220,7 +2384,7 @@
     "lon": 25.617911
    },
    "lengthKm": 13.255,
-   "speedLimit": 80,
+   "speedLimit": 90,
    "pending": false,
    "note": null,
    "verified": true,
@@ -2230,7 +2394,9 @@
     "50": 0.63
    },
    "osmUnknownKm": 1.33,
-   "weightedLimit": 80
+   "weightedLimit": 80,
+   "lowestLimit": 50,
+   "mixedSettlement": true
   },
   {
    "id": 84,
@@ -2256,7 +2422,9 @@
     "140": 21.14
    },
    "osmUnknownKm": 0.11,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 85,
@@ -2282,7 +2450,9 @@
     "140": 21.14
    },
    "osmUnknownKm": 0.11,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   },
   {
    "id": 86,
@@ -2308,7 +2478,9 @@
     "140": 8.82
    },
    "osmUnknownKm": 0.15,
-   "weightedLimit": 140
+   "weightedLimit": 140,
+   "lowestLimit": 140,
+   "mixedSettlement": false
   }
  ]
 }
