@@ -1,6 +1,6 @@
 {
- "version": "2026-11-16.4",
- "generated": "2026-11-16 02:26",
+ "version": "2026-11-16.5",
+ "generated": "2026-11-16 09:45",
  "source": "BG TOLL (списък на сертифицираните отсечки) + © OpenStreetMap contributors (ODbL)",
  "sections": [
   {
@@ -24,9 +24,9 @@
    "note": null,
    "verified": true,
    "osmLimits": {
-    "140": 4.58
+    "140": 4.43
    },
-   "osmUnknownKm": 0.28,
+   "osmUnknownKm": 0.43,
    "weightedLimit": 140,
    "lowestLimit": 140,
    "mixedSettlement": false
@@ -52,9 +52,9 @@
    "note": null,
    "verified": true,
    "osmLimits": {
-    "140": 4.58
+    "140": 4.43
    },
-   "osmUnknownKm": 0.28,
+   "osmUnknownKm": 0.43,
    "weightedLimit": 140,
    "lowestLimit": 140,
    "mixedSettlement": false
@@ -80,9 +80,9 @@
    "note": null,
    "verified": true,
    "osmLimits": {
-    "140": 19.04
+    "140": 19.01
    },
-   "osmUnknownKm": 0.1,
+   "osmUnknownKm": 0.14,
    "weightedLimit": 140,
    "lowestLimit": 140,
    "mixedSettlement": false
@@ -108,9 +108,9 @@
    "note": null,
    "verified": true,
    "osmLimits": {
-    "140": 19.04
+    "140": 19.01
    },
-   "osmUnknownKm": 0.1,
+   "osmUnknownKm": 0.14,
    "weightedLimit": 140,
    "lowestLimit": 140,
    "mixedSettlement": false
@@ -696,9 +696,9 @@
    "note": null,
    "verified": true,
    "osmLimits": {
-    "140": 13.08
+    "140": 13.09
    },
-   "osmUnknownKm": 0.06,
+   "osmUnknownKm": 0.05,
    "weightedLimit": 140,
    "lowestLimit": 140,
    "mixedSettlement": false
@@ -724,9 +724,9 @@
    "note": null,
    "verified": true,
    "osmLimits": {
-    "140": 13.08
+    "140": 13.09
    },
-   "osmUnknownKm": 0.06,
+   "osmUnknownKm": 0.05,
    "weightedLimit": 140,
    "lowestLimit": 140,
    "mixedSettlement": false
@@ -1033,8 +1033,8 @@
    "end": {
     "name": "Сандански",
     "km": 143.945,
-    "lat": 41.573135,
-    "lon": 23.239811
+    "lat": 41.573114,
+    "lon": 23.23962
    },
    "lengthKm": 14.231,
    "speedLimit": 140,
@@ -1042,9 +1042,9 @@
    "note": null,
    "verified": true,
    "osmLimits": {
-    "140": 13.88
+    "140": 13.98
    },
-   "osmUnknownKm": 0.35,
+   "osmUnknownKm": 0.25,
    "weightedLimit": 140,
    "lowestLimit": 140,
    "mixedSettlement": false
@@ -1055,8 +1055,8 @@
    "start": {
     "name": "Сандански",
     "km": 143.945,
-    "lat": 41.573135,
-    "lon": 23.239811
+    "lat": 41.573114,
+    "lon": 23.23962
    },
    "end": {
     "name": "Долна Градешница",
@@ -1070,9 +1070,9 @@
    "note": null,
    "verified": true,
    "osmLimits": {
-    "140": 13.88
+    "140": 13.98
    },
-   "osmUnknownKm": 0.35,
+   "osmUnknownKm": 0.25,
    "weightedLimit": 140,
    "lowestLimit": 140,
    "mixedSettlement": false
@@ -1083,8 +1083,8 @@
    "start": {
     "name": "Сандански",
     "km": 143.945,
-    "lat": 41.573135,
-    "lon": 23.239811
+    "lat": 41.573114,
+    "lon": 23.23962
    },
    "end": {
     "name": "Дамяница",
@@ -1098,9 +1098,9 @@
    "note": null,
    "verified": true,
    "osmLimits": {
-    "140": 6.89
+    "140": 6.97
    },
-   "osmUnknownKm": 0.4,
+   "osmUnknownKm": 0.32,
    "weightedLimit": 140,
    "lowestLimit": 140,
    "mixedSettlement": false
@@ -1117,8 +1117,8 @@
    "end": {
     "name": "Сандански",
     "km": 143.945,
-    "lat": 41.573135,
-    "lon": 23.239811
+    "lat": 41.573114,
+    "lon": 23.23962
    },
    "lengthKm": 7.306,
    "speedLimit": 140,
@@ -1126,9 +1126,9 @@
    "note": null,
    "verified": true,
    "osmLimits": {
-    "140": 6.89
+    "140": 6.97
    },
-   "osmUnknownKm": 0.4,
+   "osmUnknownKm": 0.32,
    "weightedLimit": 140,
    "lowestLimit": 140,
    "mixedSettlement": false
@@ -2287,8 +2287,8 @@
    "start": {
     "name": "Ихтиман",
     "km": 123.404,
-    "lat": 42.293873,
-    "lon": 23.877232
+    "lat": 42.294041,
+    "lon": 23.877076
    },
    "end": {
     "name": "Мирово",
@@ -2302,12 +2302,12 @@
    "note": null,
    "verified": true,
    "osmLimits": {
-    "90": 4.93,
+    "90": 4.91,
     "60": 0.63,
-    "50": 1.67,
-    "40": 2.73
+    "50": 1.63,
+    "40": 2.6
    },
-   "osmUnknownKm": 1.44,
+   "osmUnknownKm": 1.61,
    "weightedLimit": 60,
    "lowestLimit": 40,
    "mixedSettlement": true
@@ -2324,8 +2324,8 @@
    "end": {
     "name": "Ихтиман",
     "km": 123.404,
-    "lat": 42.293873,
-    "lon": 23.877232
+    "lat": 42.294041,
+    "lon": 23.877076
    },
    "lengthKm": 11.472,
    "speedLimit": 90,
@@ -2333,12 +2333,12 @@
    "note": null,
    "verified": true,
    "osmLimits": {
-    "90": 5.57,
-    "50": 1.83,
-    "40": 2.56
+    "90": 5.54,
+    "50": 1.82,
+    "40": 2.41
    },
-   "osmUnknownKm": 1.44,
-   "weightedLimit": 61,
+   "osmUnknownKm": 1.61,
+   "weightedLimit": 62,
    "lowestLimit": 40,
    "mixedSettlement": true
   },
@@ -2365,9 +2365,9 @@
    "osmLimits": {
     "90": 9.43,
     "60": 1.9,
-    "50": 0.63
+    "50": 0.58
    },
-   "osmUnknownKm": 1.33,
+   "osmUnknownKm": 1.38,
    "weightedLimit": 80,
    "lowestLimit": 50,
    "mixedSettlement": true
@@ -2395,9 +2395,9 @@
    "osmLimits": {
     "90": 9.43,
     "60": 1.9,
-    "50": 0.63
+    "50": 0.58
    },
-   "osmUnknownKm": 1.33,
+   "osmUnknownKm": 1.38,
    "weightedLimit": 80,
    "lowestLimit": 50,
    "mixedSettlement": true
